@@ -20,7 +20,6 @@ import java.io.IOException;
  The JavaDocs Folder can be located separately from the code submission as it will be  in a separate upload into the
  submission box.
 
- * @Author Aamir Djearam
  **/
 
  /** FUTURE ENHANCEMENT
